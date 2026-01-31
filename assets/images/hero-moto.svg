@@ -1,0 +1,24 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="900" height="520" viewBox="0 0 900 520" role="img" aria-label="Moto et route">
+  <defs>
+    <linearGradient id="road" x1="0" x2="1" y1="0" y2="1">
+      <stop offset="0" stop-color="#1f1f1f" />
+      <stop offset="1" stop-color="#0b0b0b" />
+    </linearGradient>
+    <linearGradient id="accent" x1="0" x2="1" y1="0" y2="0">
+      <stop offset="0" stop-color="#c00000" />
+      <stop offset="1" stop-color="#ff3b3b" />
+    </linearGradient>
+  </defs>
+  <rect width="900" height="520" fill="url(#road)" rx="32" />
+  <path d="M120 420 L780 220" stroke="#2b2b2b" stroke-width="120" stroke-linecap="round" />
+  <path d="M120 420 L780 220" stroke="#0b0b0b" stroke-width="90" stroke-linecap="round" />
+  <path d="M145 405 L770 235" stroke="url(#accent)" stroke-width="6" stroke-dasharray="18 18" stroke-linecap="round" />
+  <circle cx="260" cy="300" r="36" fill="#111" stroke="#c00000" stroke-width="6" />
+  <circle cx="520" cy="230" r="36" fill="#111" stroke="#c00000" stroke-width="6" />
+  <path d="M240 285 L340 245 L470 230 L520 230" stroke="#f3f3f3" stroke-width="12" stroke-linecap="round" stroke-linejoin="round" fill="none" />
+  <path d="M340 245 L360 210" stroke="#f3f3f3" stroke-width="10" stroke-linecap="round" />
+  <path d="M360 210 L430 210" stroke="#f3f3f3" stroke-width="10" stroke-linecap="round" />
+  <circle cx="430" cy="210" r="12" fill="#ff3b3b" />
+  <text x="90" y="120" fill="#ffffff" font-size="38" font-family="Oswald, sans-serif">LES VASIONS</text>
+  <text x="90" y="160" fill="#c00000" font-size="20" font-family="Montserrat, sans-serif">Moto Club Touristique</text>
+</svg>
