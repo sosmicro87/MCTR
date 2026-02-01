@@ -444,6 +444,24 @@ img {
   font-weight: 700;
 }
 
+.adhesion-note {
+  margin-top: 18px;
+  padding: 14px 16px;
+  border-radius: 12px;
+  background: rgba(255, 255, 255, 0.04);
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  font-size: 0.9rem;
+  color: #cfcfcf;
+}
+
+.adhesion-note strong {
+  color: #fff;
+}
+
+.adhesion-note p {
+  margin: 8px 0;
+}
+
 .facebook-card {
   display: grid;
   grid-template-columns: 1.4fr 0.6fr;
